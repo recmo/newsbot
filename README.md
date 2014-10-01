@@ -1,0 +1,4 @@
+newsbot
+=======
+
+Full automatic newscasts
